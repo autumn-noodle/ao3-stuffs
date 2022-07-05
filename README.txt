@@ -14,11 +14,13 @@ with bold and italics
 As I mainly use my phone to browse AO3, 
 code from the "mobile fix" code 
 has been included as well. 
-If you use it on multiple devices, 
-you may want to paste said code 
+If you use AO3 on multiple devices, 
+you may want to cut and paste said code 
 to another skin, set it to 
 "only screen (42em)", 
 and set this skin as a parent skin.
+Mobile fix code is marked as such in the
+code comments and should be easy to find.
 
 Colors and the font have been selected 
 with the Wizard and reappear in some 
@@ -33,3 +35,7 @@ instances in the code. Here they are:
 For some interactions with the buttons 
 and the stars in the tags, 
 the color code is as follows: #fece9c
+
+I have no knowledge whatsoever of CSS, so I
+can't help may any problems arise. Thanks
+for the understanding.
