@@ -10,10 +10,10 @@ As I mainly use my phone to browse AO3, code from the "mobile fix" code has been
 
 Colors and the font have been selected with the Wizard and reappear in some instances in the code. Here they are:
 
-Font:Times New Roman
-Background color:#fffaf4
-Text color:#825550
-Header color:#b1cdd9
-Accent color:#ffeeea
+-Font:Times New Roman;
+-Background color:#fffaf4;
+-Text color:#825550;
+-Header color:#b1cdd9;
+-Accent color:#ffeeea;
 
 For some interactions with the buttons and the stars in the tags, the color code is as follows: #fece9c
